@@ -2,7 +2,7 @@ name: flutter_plugin_couchbase
 description: Flutter plugin to handle couchbase lite for android.
 version: 0.0.1
 author:Ahmed Yousri
-homepage:https://github.com/hemeda3/couchbase-lite-flutter
+homepage: https://github.com/hemeda3/couchbase-lite-flutter
 
 dependencies:
   flutter:
